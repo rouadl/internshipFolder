@@ -1,0 +1,72 @@
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.genruntimeconfig.cache
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.deps.json
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.json
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.runtimeconfig.dev.json
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.dll
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfoInputs.cache
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.AssemblyInfo.cs
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.dll
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.pdb
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\Domaine\obj\Debug\netcoreapp3.1\GP.Domain.genruntimeconfig.cache

@@ -1,0 +1,644 @@
+C:\Users\USER\source\repos\GestionBibliotheque\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GestionBibliotheque\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GestionBibliotheque\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\USER\source\repos\GestionBibliotheque\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Domaine.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Domaine.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Domaine.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Domaine.pdb
+C:\Users\USER\source\repos\DocStore\Console\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\DocStore\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DocStore\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DocStore\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\USER\source\repos\DocStore\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DocStore\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+C:\Users\USER\source\repos\DocStore\Console\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\USER\source\repos\DocStore\Console\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Users\USER\source\repos\DocStore\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\USER\source\repos\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+C:\Users\USER\source\repos\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\USER\source\repos\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Users\USER\source\repos\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\USER\source\repos\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.exe
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.exe
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.exe
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.exe
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Console\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.exe
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.exe
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Console.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache

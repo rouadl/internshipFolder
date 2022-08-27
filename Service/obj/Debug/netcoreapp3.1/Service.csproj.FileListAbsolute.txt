@@ -1,0 +1,130 @@
+C:\Users\USER\source\repos\GestionBibliotheque\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\USER\source\repos\GestionBibliotheque\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GestionBibliotheque\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GestionBibliotheque\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\USER\source\repos\GestionBibliotheque\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GestionBibliotheque\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Service\bin\Debug\netcoreapp3.1\Domaine.dll
+C:\Users\USER\source\repos\GestionBibliotheque\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Service\bin\Debug\netcoreapp3.1\Domaine.pdb
+C:\Users\USER\source\repos\GestionBibliotheque\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\USER\source\repos\DocStore\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\USER\source\repos\DocStore\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\DocStore\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\DocStore\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\USER\source\repos\DocStore\Service\bin\Debug\netcoreapp3.1\Domaine.dll
+C:\Users\USER\source\repos\DocStore\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\USER\source\repos\DocStore\Service\bin\Debug\netcoreapp3.1\Domaine.pdb
+C:\Users\USER\source\repos\DocStore\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DocStore\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DocStore\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\USER\source\repos\DocStore\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DocStore\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\USER\source\repos\DocStore\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\DocStore\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\USER\source\repos\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\USER\source\repos\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\USER\source\repos\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\USER\source\repos\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\USER\source\repos\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\USER\source\repos\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\USER\source\repos\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\USER\source\repos\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Solution\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Séance 4\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 6\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours séance 7\GestionProduitsVF\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours seance 8\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 9\GestionProduits\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

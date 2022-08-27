@@ -1,0 +1,85 @@
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 10\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 11\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 12\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 13\GestionProduits\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.dll
+D:\Ecole\Ecole\Work\Cours .Net\Temp Cours .Net\42h-20200606T085244Z-001\42h_officiel\.Net Core\Cours Seance 14\Exam-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.deps.json
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.dll
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.ServicePattern.pdb
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.dll
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.dll
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.Data.pdb
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\bin\Debug\netcoreapp3.1\GP.Domain.pdb
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.AssemblyReference.cache
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfoInputs.cache
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.AssemblyInfo.cs
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.csproj.CopyComplete
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.dll
+C:\Users\Roua Dali\Desktop\Exam-Template (4)\Med-Template\ServicePattern\obj\Debug\netcoreapp3.1\GP.ServicePattern.pdb

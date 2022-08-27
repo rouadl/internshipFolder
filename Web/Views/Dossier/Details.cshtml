@@ -1,0 +1,36 @@
+﻿@model GP.Domain.Entities.DossierMedical
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>DossierMedical</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomPatient)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomPatient)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PrenomPatient)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PrenomPatient)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Maladies)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Maladies)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.CIN">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
